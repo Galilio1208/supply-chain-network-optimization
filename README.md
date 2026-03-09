@@ -233,6 +233,3 @@ Possible enhancements include:
 
 Geospatial Analytics | Data Science | GIS | Supply Chain Analytics
 
-**Saurabh Malik**
-
-Geospatial Analytics | Data Science | GIS | Supply Chain Analytics
