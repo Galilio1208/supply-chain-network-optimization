@@ -1,0 +1,17 @@
+# Ignore large GIS datasets
+Data/
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.xml
+
+# Python
+__pycache__/
+*.pyc
+
+# ArcGIS temp/lock files
+*.lock
