@@ -178,7 +178,7 @@ The map includes:
 - Optimal warehouse locations
 - Service regions assigned to each warehouse
 
-![Supply Chain Network Map](Maps/supply_chain_network__optimization_map.png)
+![Supply Chain Network Map](Maps/supply_chain_network_optimization_map.png)
 
 ---
 
