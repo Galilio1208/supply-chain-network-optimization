@@ -1,6 +1,6 @@
 # Supply Chain Network Optimization using Geospatial Analytics
 
-![Project Map](maps/supply_chain_network_optimization_map.png)
+![Project Map](Maps/supply_chain_network_optimization_map.png)
 
 ## Project Overview
 
@@ -178,7 +178,7 @@ The map includes:
 - Optimal warehouse locations
 - Service regions assigned to each warehouse
 
-![Supply Chain Network Map](maps/supply_chain_network__optimization_map.png)
+![Supply Chain Network Map](Maps/supply_chain_network__optimization_map.png)
 
 ---
 
@@ -211,7 +211,7 @@ README.md
 
 Detailed methodology and analysis can be found in the project summary.
 
-[Download Project Summary](docs/project_summary.pdf)
+[Download Project Summary](Docs/project_summary.pdf)
 
 ---
 
