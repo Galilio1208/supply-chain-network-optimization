@@ -1,5 +1,7 @@
 # Supply Chain Network Optimization using Geospatial Analytics
 
+![Project Map](maps/supply_chain_network_optimization_map.png)
+
 ## Project Overview
 
 Efficient supply chain network design is critical for companies distributing goods across large geographic regions. Poor warehouse placement can significantly increase transportation costs, delivery times, and operational inefficiencies.
@@ -7,6 +9,18 @@ Efficient supply chain network design is critical for companies distributing goo
 This project demonstrates how **Geographic Information Systems (GIS) and Python optimization models** can be combined to determine the **optimal locations for distribution centers** that minimize delivery distance while serving population demand.
 
 The analysis integrates **ArcGIS Pro spatial analysis with Python-based facility location optimization** to simulate real-world logistics decision making.
+
+---
+
+## Skills Demonstrated
+
+- Geospatial Data Analysis
+- Supply Chain Network Optimization
+- Facility Location Modeling
+- GIS Spatial Analysis
+- Python Optimization Modeling
+- Scenario Analysis
+- Logistics Network Design
 
 ---
 
@@ -60,6 +74,20 @@ Examples include:
 - Riverside
 - Fresno
 - San Jose
+
+---
+
+## Project Workflow
+
+The project follows a geospatial analytics pipeline:
+
+1. Data collection from US Census Bureau
+2. GIS preprocessing in ArcGIS Pro
+3. County centroid generation
+4. Distance matrix creation
+5. Optimization modeling using Python (PuLP)
+6. Scenario comparison
+7. GIS visualization of optimal logistics network
 
 ---
 
@@ -150,7 +178,7 @@ The map includes:
 - Optimal warehouse locations
 - Service regions assigned to each warehouse
 
-![Supply Chain Network Map](maps/supply_chain_network_map.png)
+![Supply Chain Network Map](maps/supply_chain_network__optimization_map.png)
 
 ---
 
@@ -200,6 +228,10 @@ Possible enhancements include:
 ---
 
 ## Author
+
+**Saurabh Malik**
+
+Geospatial Analytics | Data Science | GIS | Supply Chain Analytics
 
 **Saurabh Malik**
 
